@@ -1,6 +1,8 @@
 # Forms
 How to create a form with HTML, CSS, Javascript
 
+![PRoject Printscreen](https://github.com/dianavile/Forms-Basic/blob/main/Form.PNG)
+
 ## Outline
 - Form tag attributes
 - GET vs POST
